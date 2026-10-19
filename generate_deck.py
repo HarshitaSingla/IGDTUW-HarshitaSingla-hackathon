@@ -10,7 +10,7 @@ blank_layout = prs.slide_layouts[6]
 slides_content = [
     {
         "title": "FinRisk AI: Unified NLP Risk Engine & Portfolio Stress-Testing Platform",
-        "subtitle": "S&P Global & CRISIL Campus Hackathon 2026 | Candidate: Rudra Singla | Techno India NJR Institute of Technology",
+        "subtitle": "S&P Global & CRISIL Campus Hackathon 2026 | Candidate: Harshita Singla | Indira Gandhi Delhi Technical University for Women",
         "bullets": [
             "Track: AI/NLP Risk Engine with Strategic Portfolio Stress Testing (Module B)",
             "Transforms unstructured market feeds into quantitative credit risk and regulatory capital triggers.",

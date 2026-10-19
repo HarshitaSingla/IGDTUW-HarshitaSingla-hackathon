@@ -3,7 +3,7 @@
 **Candidate Name:** Harshita Singla
 **College Email ID:** harshita065btcseai23@igdtuw.ac.in 
 **College / Campus:** Indira Gandhi Delhi Technical University for Women
-**Demo Video Link:** [YouTube / Unlisted Link]  
+**Demo Video Link:** https://youtu.be/O7cUdiIWBcU
 **Slide Deck Link (if hosted externally):** docs/presentation.pdf  
 
 ---
