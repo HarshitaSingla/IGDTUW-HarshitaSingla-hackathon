@@ -1,0 +1,30 @@
+[
+  {
+    "id": "NEWS-001",
+    "source": "financial_news",
+    "timestamp": "2026-10-17T09:30:00Z",
+    "title": "Central Bank Signals Surprise 75bps Rate Hike Amid Sticky Inflation",
+    "text": "The monetary policy committee unexpectedly raised the benchmark interest rate by 75 basis points today, citing unyielding inflation and geopolitical oil shocks. Yields on long-term government debt surged, impacting capital borrowing costs across banking institutions."
+  },
+  {
+    "id": "NEWS-002",
+    "source": "financial_news",
+    "timestamp": "2026-10-17T11:15:00Z",
+    "title": "Major Industrial Conglomerate Defaults on ₹1,200 Cr Working Capital Loan",
+    "text": "A premier infrastructure firm has formally defaulted on its commercial debt obligations, triggering default provisions and credit spread widening across corporate lending desks. Lenders are provisioning for severe credit impairments."
+  },
+  {
+    "id": "SOC-001",
+    "source": "social_media",
+    "timestamp": "2026-10-17T13:45:00Z",
+    "title": "Trade Rumors on Border Disruptions",
+    "text": "Breaking: Heightened diplomatic standoffs escalate border closures, disrupting critical supply routes and fuel imports for commercial manufacturing. Equities tumble across industrial sectors."
+  },
+  {
+    "id": "SOC-002",
+    "source": "social_media",
+    "timestamp": "2026-10-17T15:00:00Z",
+    "title": "Product Launch Announcement",
+    "text": "Global Tech Corp successfully launches new enterprise analytics suite to positive client feedback. Adoption expected to climb gradually through next fiscal year."
+  }
+]

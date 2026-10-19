@@ -1,0 +1,6 @@
+asset_id,asset_name,asset_type,initial_value_inr_lakhs,base_spread_bps,duration_years
+AST-101,Corporate Term Loan Alpha,Loan,40.0,250,3.5
+AST-102,Sovereign G-Sec 10Y,Bond,25.0,0,7.2
+AST-103,Corporate Bond Beta,Bond,20.0,180,4.8
+AST-104,Nifty 50 Equity Portfolio,Equity,10.0,0,0.0
+AST-105,Interest Rate Swap (Pay-Fixed),Derivative,5.0,50,5.0
